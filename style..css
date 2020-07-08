@@ -1,0 +1,79 @@
+.classheading{
+    text-align: center;  
+    color:black;
+    text-decoration: underline;
+    font-style:italic;
+    font-weight: bolder;
+}
+.paragraphheading{
+    text-align: center;
+    font-weight: 600;
+    font-size: 25px; 
+    color: white;
+    font-style: italic;
+}
+.imageheading{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 50px;
+}
+#maincolour{
+  background-image: url('abstract color.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+ } 
+ .backroundheading{
+     background-image: url('abstract color.jpg');
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+ }
+ .liheading{
+     font-size: 25px;
+     text-align: center;
+     font-weight: 600;
+     list-style: inside;
+     font-style: italic;
+     color: black;
+ }
+ .buttonheading{
+     background-color:transparent;
+     border-color: silver;
+     font-weight: bold;
+     font-size: 18px;
+     color: white;
+     padding: 5px;
+     border-radius: 8px;
+     font-style: italic;
+ }
+ .questionheading{
+     font-weight: bold;
+     font-size: 22px;
+     color: white;
+     font-style: italic;
+ }
+ .labelheading{
+     font-weight: bold;
+     font-size: 18px;
+     color: white;
+     font-style: italic;
+ }
+ #scoreheading{
+     font-weight: bolder;
+     font-size: 25px;
+     color: white;
+     font-style: italic;
+ }
+ #username{
+     border-radius: 3px;
+     height: 30px;
+     width: 220px;
+     border-color:silver;
+     background-color:transparent;
+     color: white;
+     font-weight:400;
+     font-size: 18px;
+     font-style: italic;
+ }
